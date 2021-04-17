@@ -1,7 +1,7 @@
 /* Tamper
 
 // ==UserScript==
-// @name         Load Ataques da Tribo para Webhook VT@
+// @name         Load Ataques da Tribo para Discord Webhook
 // @namespace    http://tampermonkey.net/
 // @version      1
 // @description   Load Ataques da Tribo
